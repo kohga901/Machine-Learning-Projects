@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore large file
+CNN_CIFAR-10_Dataset/data/
